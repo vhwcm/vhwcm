@@ -1,4 +1,3 @@
-@@ -0,0 +1,19 @@
 # About Me
 
 -  Learning the world of technology and exploring tools
