@@ -2,8 +2,7 @@
 
 -  Learning the world of technology and exploring tools
 -  Computer Science student at UFPR.
--  Member of PET Computação at UFPR.
--  Studying for competitive programming and cybersecurity
+-  Studying for competitive programming, cybersecurity and DevOps
 
 
 <br/>
