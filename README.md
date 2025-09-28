@@ -1,28 +1,25 @@
-# About Me
+# 👋 Hey there! I'm Viktor Hugo  
 
--  Learning the world of technology and exploring tools
--  Computer Science student at UFPR.
--  Studying for competitive programming, cybersecurity and DevOps
+🎓 Computer Science student @ UFPR  
+💻 DevSecOps Aspirant | Java, C/C++, JS/TS  
+🌱 Always exploring new tools and technologies  
 
 
-<br/>
+## ⚒️ Tech Stack  
 
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api?username=vhwcm&show_icons=true&theme=radical&hide=contribs,issues&show=discussions_answered&rank_icon=github&include_all_commits=true&card_width=150" />
-</a>
-<a href="#">
-  <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=vhwcm&hide=html,scss,css&langs_count=8&layout=compact&theme=radical&card_width=150" />
-</a>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)  
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=vhwcm&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href=#><img src="contributions.svg"></a>
 
-<p align="center">
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/vhwcm/count.svg" />
-</p>
+## 🌍 Where to Find Me  
 
-## Where to Find Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-wcm/)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vichwcm@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vhwcm)  
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/victor-hugo-wcm/)](https://www.linkedin.com/in/elisaeleoterio/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:vichwcm@gmail.com)](mailto:elisarochaeleoterio741@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&link=https://github.com/vhwcm)](https://github.com/elisaeleoterio)
