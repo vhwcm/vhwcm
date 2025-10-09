@@ -1,18 +1,12 @@
 # 👋 Olá! Eu sou Viktor Hugo
 
 ###  Estudante de Ciência da Computação @ UFPR
-###  Tech Stack Core: Java, C/C++, JavaScript/TypeScrip
+###  Java, C/C++, JavaScript/TypeScrip
 ---
-
-## 🛠️ Tecnologias & Conquistas
-
 | Tech Stack | Trophies |
 | :---: | :---: |
 | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![CI/CD](https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=githubactions&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white) | [![trophy](https://github-profile-trophy.vercel.app/?username=vhwcm&theme=radical&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy) |
-
 ---
-
-## Estatísticas e Linguagens Mais Usadas
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=vhwcm&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
@@ -23,9 +17,6 @@
 <br clear="both"> 
 
 ---
-
-## Onde Me Encontrar
-
 <p align="center">
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-wcm/)
