@@ -10,7 +10,7 @@
 
 <p align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=vhwcm&show_icons=true&theme=radical&hide_border=true&rank_icon=github" alt="GitHub Stats" />
-  
+   <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhwcm&layout=compact&langs_count=8&theme=radical&exclude_langs=Jupyter%20Notebook,HTML,CSS" alt="Top Languages" />
 
 </p>
 
