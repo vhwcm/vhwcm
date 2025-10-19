@@ -1,6 +1,6 @@
-# 👋 Olá! Eu sou Viktor Hugo
+# 👋 Hello! I'm Viktor Hugo
 
-###  Estudante de Ciência da Computação @ UFPR
+###  Computer Science Student @ UFPR
 ###  Java, C/C++, JavaScript/TypeScrip
 ---
 | Tech Stack | Trophies |
