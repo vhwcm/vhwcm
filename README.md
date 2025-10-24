@@ -1,7 +1,6 @@
 # 👋 Hello! I'm Viktor Hugo
 
 ###  Computer Science Student @ UFPR
-###  Java, C/C++, JavaScript/TypeScrip
 ---
 | Tech Stack | Trophies |
 | :---: | :---: |
