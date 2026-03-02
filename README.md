@@ -26,7 +26,6 @@
 
 ### interests:
 * DevOps
-* LLMOps
 * CyberSecurity
 * Software Development
 * Software Architecture
